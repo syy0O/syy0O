@@ -1,7 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+Song+Yeon+˙ᵕ˙+&nbsp;)
 
-<img src="https://github-readme-stats.vercel.app/api?username=syy0O&show_icons=truedisable_animations=true&theme=vue">
+![syy0O's GitHub stats](https://github-readme-stats.vercel.app/api?username=syy0O&show_icons=true&theme=vue)
 
 <br>
 
